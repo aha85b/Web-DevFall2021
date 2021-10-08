@@ -3,7 +3,9 @@
 
 - Name: Ahmed Alanazi
 - Email: aha85b@umsystem.edu
-- Partner Name: Vijaya
+
+## My Partner
+- Partner Name: Vijaya Kumari
 - Partner Email: vyq4b@umsystem.edu
 - Partner Repository: https://github.com/aha85b/Web-DevFall2021/tree/main/Source/Task1
 
