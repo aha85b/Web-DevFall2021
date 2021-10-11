@@ -1,6 +1,6 @@
-# ICP Group XX
+# ICP XX
 
-
+- ICP Group XX
 - Name: Ahmed Alanazi
 - Email: aha85b@umsystem.edu
 
